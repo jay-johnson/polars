@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["AsRefPolars","Similar to AsRef Needed to go from Arc to &str"],["Selection","Allow selection by:"]]});

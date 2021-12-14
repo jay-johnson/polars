@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ScanAggregation",""]],"mod":[["csv","(De)serializing CSV files"],["csv_core",""],["mmap",""],["prelude",""]],"trait":[["ArrowReader",""],["PhysicalIoExpr",""],["SerReader",""],["SerWriter",""]]});
